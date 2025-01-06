@@ -1,0 +1,57 @@
+{
+  "names" :["Sophie", "Emily", "Olivia", "Ava", "Isabella",
+    "Charlotte", "Amelia", "Mia", "Ella", "Lily",
+    "Grace", "Chloe", "Zoe", "Harper", "Hannah",
+    "Abigail", "Madeline", "Sophia", "Emma", "Scarlett",
+    "Victoria", "Aria", "Layla", "Evelyn", "Ellie",
+    "Lucy", "Penelope", "Aurora", "Stella", "Violet",
+    "Nora", "Lillian", "Hazel", "Elizabeth", "Audrey",
+    "Savannah", "Avery", "Ruby", "Alice", "Clara",
+    "Ivy", "Rose", "Natalie", "Eleanor", "Madison",
+    "Juliet", "Annabelle", "Cora", "Eliza", "Faith"
+  ],
+  "female_names": [
+    "Sophia", "Emma", "Olivia", "Isabella", "Ava",
+    "Mia", "Charlotte", "Amelia", "Harper", "Evelyn",
+    "Abigail", "Emily", "Ella", "Elizabeth", "Grace",
+    "Chloe", "Lily", "Zoe", "Hannah", "Scarlett",
+    "Aria", "Layla", "Ellie", "Violet", "Aurora",
+    "Lucy", "Savannah", "Penelope", "Nora", "Hazel",
+    "Victoria", "Ruby", "Stella", "Audrey", "Alice",
+    "Clara", "Ivy", "Maya", "Samantha", "Natalie",
+    "Julia", "Madeline", "Lillian", "Faith", "Eliza",
+    "Rose", "Eleanor", "Annabelle", "Cora", "Josephine"
+  ],
+  "male_names" : [
+    "Liam", "Noah", "Oliver", "Elijah", "James",
+    "William", "Benjamin", "Lucas", "Henry", "Alexander",
+    "Mason", "Ethan", "Michael", "Daniel", "Matthew",
+    "Joseph", "Jackson", "Samuel", "Sebastian", "David",
+    "Gabriel", "Logan", "Christopher", "Jack", "Anthony",
+    "Andrew", "Joshua", "Luke", "Ryan", "Isaac",
+    "Nathan", "Thomas", "Dylan", "Caleb", "Levi",
+    "Aaron", "Owen", "Connor", "Julian", "Eli",
+    "Adam", "Jonathan", "Hunter", "Christian", "Dominic",
+    "Colton", "Austin", "Miles", "Hudson", "Leo"
+  ],
+  "families" : [
+    "nephew", "cousin", "brother", "sister", "uncle",
+    "aunt", "mother", "father", "grandmother", "grandfather",
+    "niece", "son", "daughter", "grandson", "granddaughter",
+    "stepmother", "stepfather", "stepbrother", "stepsister",
+    "mother-in-law", "father-in-law", "brother-in-law", "sister-in-law",
+    "friends"
+  ],
+  "female_families" : [
+    "mother", "grandmother", "daughter", "granddaughter",
+    "sister", "aunt", "niece", "stepmother",
+    "stepsister", "mother-in-law", "sister-in-law",
+    "friends"
+  ],
+  "male_families" : [
+    "father", "grandfather", "son", "grandson",
+    "brother", "uncle", "nephew", "stepfather",
+    "stepbrother", "father-in-law", "brother-in-law",
+    "friends"
+  ]
+}
