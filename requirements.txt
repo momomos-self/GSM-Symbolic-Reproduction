@@ -1,0 +1,6 @@
+torch
+transformers
+alive-progress
+openai
+accelerate==0.27.0
+bitsandbytes
