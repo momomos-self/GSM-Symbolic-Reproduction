@@ -34,6 +34,18 @@ LLMs 在回答同一问题的不同实例时表现出明显差异。在 GSM-Symb
 
 本次复现采用的模型是GPT3.5（调用的是OPENAI的API）。
 
+test_GPT3_xxx.py: 微调过后或未微调的GPT3.5模型进行测试的代码。
+
+to_message.py: 把原始GSM8K的数据转换成GPT可识别的message数据。注意：不同模型微调所需要的原始文件格式不一定是一样的。
+
+Format_validation.py: message文件格式验证，参考openai官方文件说明。
+
+extract_number.py: 用于提取模型回复的数字答案。
+
+files_openai.py: 将微调数据上传至openai，让openai进行微调，之后可以直接调用API。
+
+draw_xxx.py: 绘图文件。
+
 **五、复现结果**
 
 经过复现，成功观察到与论文中类似的结果，即模型在处理同一问题不同实例和不同从句数量问题时的性能变化趋势与论文一致，证明了复现的有效性。
